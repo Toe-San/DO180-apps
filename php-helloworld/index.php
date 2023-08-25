@@ -1,5 +1,5 @@
 <?php
-$string= "Welcome! တောသားတွေ!";
+$string= "tawtaryeminlat";
 echo $string."<br>";
 
 //Change the fontsize using PHP, HTML and css through echo
