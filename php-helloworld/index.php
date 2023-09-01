@@ -1,5 +1,5 @@
 <?php
-$string= "tawtaryeminlat";
+$string= "powerranger";
 echo $string."<br>";
 
 //Change the fontsize using PHP, HTML and css through echo
