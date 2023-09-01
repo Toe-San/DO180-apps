@@ -9,7 +9,10 @@ echo '<span style="font-size: 50px;"> ' . $string . '</span>';
 echo "<br>";
 echo '<span style="color: red; font-size: 50px;"> ' . $string . '</span>';
 
-// Corrected the img tag syntax and URL
-echo '<img src="https://drive.google.com/file/d/16rKiez5BKGk7dRzoUefJxLDiNse8dDNE/view?usp=drive_link">';
+// Set the correct image source URL using PHP
+$imageURL = "https://github.com/Toe-San/DO180-apps/raw/master/php-helloworld/tawtar.PNG";
+echo '<br>';
+echo '<img src="' . $imageURL . '">';
+
 ?>
 
