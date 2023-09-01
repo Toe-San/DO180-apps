@@ -10,6 +10,6 @@ echo "<br>";
 echo '<span style="color: red; font-size: 50px;"> ' . $string . '</span>';
 
 // Corrected the img tag syntax and URL
-echo '<img src="https://github.com/Toe-San/DO180-apps/blob/master/php-helloworld/tawtar.PNG">';
+echo '<img src="https://drive.google.com/file/d/16rKiez5BKGk7dRzoUefJxLDiNse8dDNE/view?usp=drive_link">';
 ?>
 
