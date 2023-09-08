@@ -1,5 +1,5 @@
 <?php
-$string = "Taw Tar Tway";
+$string = "Hello World";
 echo $string . "<br>";
 
 // Change the fontsize using PHP, HTML, and CSS through echo
