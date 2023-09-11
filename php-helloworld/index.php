@@ -10,7 +10,7 @@ echo "<br>";
 echo '<span style="color: red; font-size: 50px;"> ' . $string . '</span>';
 
 // Set the correct image source URL using PHP
-$imageURL = "https://github.com/Toe-San/DO180-apps/raw/master/php-helloworld/tawtar.PNG";
+$imageURL = "https://github.com/Toe-San/DO180-apps/raw/master/php-helloworld/Cover-image-for-blog-post-on-cloud-development.png";
 echo '<br>';
 echo '<img src="' . $imageURL . '">';
 
