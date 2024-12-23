@@ -1,0 +1,19 @@
+version: '3.8'
+services:
+  nodejs-app:
+    build:
+      context: ./nodejs-app
+    ports:
+      - "3000:3000"
+
+  nodejs-helloworld:
+    build:
+      context: ./nodejs-helloworld
+    ports:
+      - "3001:3000"
+
+  php-helloworld:
+    build:
+      context: ./php-helloworld
+    ports:
+      - "8080:80"
